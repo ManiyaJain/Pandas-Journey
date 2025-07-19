@@ -30,14 +30,3 @@ Make sure you have the following installed:
 ```bash
 pip install pandas jupyter
 
-## 🧠 Learning In Progress 
-
-This is a **work-in-progress** repository. I’m continuously adding new topics and projects as I explore more.  
-Stay tuned for updates and improvements!
-
----
-
-## ⭐ Let's Connect
-
-If you find this repository helpful, feel free to **star** it and share it with others on their data journey!
-
